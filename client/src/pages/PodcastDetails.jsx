@@ -3,7 +3,7 @@ import React from 'react'
 const PodcastDetails = () => {
   return (
     <div>
-      
+      PodcastDetails
     </div>
   )
 }
